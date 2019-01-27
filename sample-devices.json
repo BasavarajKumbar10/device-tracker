@@ -1,0 +1,34 @@
+{
+   "devices": [
+      {
+        "deviceName": "Samsung S8",
+        "imei": "358053451379594",
+        "isAvailable": true
+      },
+      {
+        "deviceName": "iPhone 7",
+        "imei": "353774589459824",
+        "isAvailable": true
+      },
+      {
+        "deviceName": "iPhone 6S",
+        "imei": "35945607366298",
+        "isAvailable": true
+      },
+      {
+        "deviceName": "iPhone 5C",
+        "imei": "938454895PP390",
+        "isAvailable": true
+      },
+      {
+        "deviceName": "iPhone 7",
+        "imei": "393274893CC7347",
+        "isAvailable": true
+      },
+      {
+        "deviceName": "iPAD Pro",
+        "imei": "977823494ER32742",
+        "isAvailable": false
+      }
+    ]
+  }
