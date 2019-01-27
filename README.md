@@ -1,6 +1,22 @@
 # device-tracker
 This is a react-native project. This app is used to track device repository/stock, which will be helpful for mobility projects.
 
+* Can see available/taken devices list in Dashboard screen.
+* Can track history of devices usability.
+
+
+
+![Dashboard](./screenshots/screenshot-1.png "Dashboard")
+
+
+![History](./screenshots/screenshot-2.png "History")
+
+
+![Entry](./screenshots/screenshot-3.png "Entry")
+
+
+![Return Device](./screenshots/screenshot-4.png "Return Device")
+
 ### Prerequisites ###
 * Node js (npm)
 * Firebase real-time data base set up
